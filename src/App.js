@@ -22,7 +22,7 @@ function App() {
           <AccountSummary />
           <TransactionHistory />
           <AddTransaction />
-          <CopyRight/>
+          
         </div>
       </GlobalProvider>
   );
