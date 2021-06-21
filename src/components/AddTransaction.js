@@ -11,7 +11,7 @@ export const AddTransaction = () => {
         e.preventDefault();
 
         const newTransaction = {
-            id: new Date().getTime(),
+            id:[],
             description,
             transactionAmount: +transactionAmount
         }

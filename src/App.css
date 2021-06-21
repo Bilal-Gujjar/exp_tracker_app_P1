@@ -9,8 +9,7 @@
 }
 
 body {
-  background-image: url(./bc.jpg);
-  
+  background-color: antiquewhite;
   display: flex;
   flex-direction: column;
   align-items: center;
